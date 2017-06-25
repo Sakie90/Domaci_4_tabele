@@ -1,0 +1,67 @@
+img {
+	float:right;
+	width:600px;
+}
+
+body { 
+    font-family: 'McLaren', cursive;
+	width:80%;
+	margin-left:100px;
+	margin-bottom:20px;
+}
+
+.navigacija {	
+		margin:20px auto 0px auto;
+		background-color: #666699;
+		font-size:40px;
+		text-align: right;
+		padding-bottom:30px;
+		padding-right:10px;
+		list-style-type: none;
+
+}
+
+.bullets{	
+	list-style-position:inside;
+	display: inline;
+
+}
+
+a {
+	color: black;
+}
+
+nav li {
+		 font-family: 'Baloo', cursive;
+		 display:inline;
+}
+
+table {
+    font-family: 'McLaren', cursive;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+h1 {
+    font-family: 'Baloo', cursive;
+
+}
+
+input[type="radio"]{
+  margin: 0 10px 0 10px;
+}
+
+input[type="submit"]{
+  margin: 0 10px 0 10px;
+}
+
